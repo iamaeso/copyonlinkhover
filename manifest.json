@@ -6,7 +6,6 @@
   "author": "Matt Kirtley",
   "homepage_url": "https://mattkirtley.com/",
   "permissions": [
-    "activeTab",
     "clipboardWrite"
   ],
   "content_scripts": [
